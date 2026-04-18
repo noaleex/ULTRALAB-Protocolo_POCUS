@@ -25,10 +25,11 @@ The main goal is to assist nursing education by simulating real-world clinical s
 
 ## 🛠️ Technologies
 
-- Unity (Game Engine)  
-- C#  
-- C++ (support systems / logic)  
-- JavaScript / TypeScript (web integrations, if applicable)  
+- Unity (Game Engine)
+- Adobe Photoshop and Illustrator
+- Aseprite  
+- C#   
+- JavaScript  
 - HTML / CSS  
 - Git & GitHub  
 
@@ -39,7 +40,7 @@ This project combines programming and design, including:
 - Game development (Unity)  
 - UI/UX design  
 - Graphic design and visual identity  
-- 3D modeling and asset creation  
+- Asset creation  
 
 ## 👥 Team
 
@@ -53,7 +54,7 @@ Developed by DIFS (independent development group)
 
 ## 📷 Media
 
-> (Add screenshots, gameplay GIFs, or videos here)
+
 
 ## 📚 Learning & Development
 
