@@ -1,73 +1,80 @@
-# 🏥 Serious Game for Healthcare Training (POCUS)
+# ULTRALAB: Protocolo POCUS 🩺🎮
 
-An interactive serious game developed to support healthcare education through clinical simulations focused on Point-of-Care Ultrasound (POCUS).
+![Status](https://img.shields.io/badge/Status-Desenvolvimento-yellow)
+![IFPR](https://img.shields.io/badge/Instituição-IFPR-green)
+![Partners](https://img.shields.io/badge/Parceria-UFPR%20%7C%20USP%20%7C%20Einstein-blue)
 
-## 📌 About the Project
+**Ultralab: Protocolo POCUS** é um *Serious Game* desenvolvido como Trabalho de Conclusão de Curso (TCC) no IFPR. O projeto foca no treinamento de enfermeiros para o uso do Ultrassom à Beira-Leito (POCUS), simulando a tomada de decisão em ambiente de UTI.
 
-This project was developed as a Technical Course Final Project (TCC) at the Instituto Federal do Paraná (IFPR), in collaboration with the Federal University of Paraná (UFPR) and the University of São Paulo (USP).
+---
 
-The main goal is to assist nursing education by simulating real-world clinical scenarios, allowing users to practice decision-making in a safe and interactive environment.
+## 📌 Sobre o Projeto
+Este simulador nasceu de uma demanda real do **Projeto Ultralab (UFPR)**, coordenado pela Profª Dra. Vanessa Comassetto, com apoio técnico da **USP** e do **Hospital Albert Einstein** na elaboração dos casos clínicos. 
 
-## 🎯 Objectives
+O jogo utiliza uma estética híbrida de **Pixel Art 2.5D** para exploração e **Visão Vetorial** de alta definição para os procedimentos médicos, criando um ambiente imersivo e tecnicamente preciso.
 
-- Simulate clinical scenarios using POCUS concepts  
-- Support healthcare professionals in training and education  
-- Provide an interactive and intuitive learning experience  
-- Bridge technology and healthcare through serious games  
+---
 
-## 🧠 Features
+## 🖼️ Galeria de Desenvolvimento (DIFS / AR Lumin)
 
-- Interactive patient assessment system  
-- Clinical decision-making mechanics  
-- Scenario-based gameplay  
-- UI/UX focused on usability and clarity  
-- Educational approach with real-world applications  
+<details>
+<summary><b>📂 Cenários e Ambientação (UTI 2.5D)</b></summary>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/noaleex/ULTRALAB-Protocolo_POCUS/main/Documentation/lab.png" width="600" alt="Cenário LAB">
+  <img src="https://raw.githubusercontent.com/noaleex/ULTRALAB-Protocolo_POCUS/main/Documentation/uti.png" width="600" alt="Cenário UTI">
+  <img src="https://raw.githubusercontent.com/noaleex/ULTRALAB-Protocolo_POCUS/main/Documentation/reception.png" width="600" alt="Cenário Reception">
+  <img src="https://raw.githubusercontent.com/noaleex/ULTRALAB-Protocolo_POCUS/main/Documentation/rest.png" width="600" alt="Cenário Nursing Rest">
+  <img src="https://raw.githubusercontent.com/noaleex/ULTRALAB-Protocolo_POCUS/main/Documentation/cope.png" width="600" alt="Cenário Cope">
+  <br><i>Cenários modulares construídos em Tilesets para simulação hospitalar.</i>
+</p>
+</details>
 
-## 🛠️ Technologies
+<details>
+<summary><b>👥 Model Sheets (Personagens e Equipe)</b></summary>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/noaleex/ULTRALAB-Protocolo_POCUS/main/Documentation/sprites.png" width="600" alt="Personagens">
+  <br><i>Design de personagens e animações focadas na interação clínica.</i>
+</p>
+</details>
 
-- Unity (Game Engine)
-- Adobe Photoshop and Illustrator
-- Aseprite  
-- C#   
-- JavaScript  
-- HTML / CSS  
-- Git & GitHub  
+<details>
+<summary><b>🖥️ Interface e Visão Vetorial (HUD/UI)</b></summary>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/noaleex/ULTRALAB-Protocolo_POCUS/main/Documentation/exames.png" width="600" alt="Visão Exames">
+  <br><i>Painéis técnicos para simulação do console de ultrassom e propedêutica.</i>
+</p>
+</details>
 
-## 🎨 Design & Development
+---
 
-This project combines programming and design, including:
+## 🛠️ Tecnologias e Softwares
+- **Engine:** Unity (C#)
+- **Arte:** Adobe Photoshop, Illustrator e Aseprite
+- **Sistemas:** Unity Timeline, ScriptableObjects (Casos Clínicos), Grid System
 
-- Game development (Unity)  
-- UI/UX design  
-- Graphic design and visual identity  
-- Asset creation  
+---
 
-## 👥 Team
+## 👥 Equipe e Créditos
 
-Developed by DIFS (independent development group)  
+### Desenvolvedores (Equipe DIFS / AR Lumin)
+* **Alexandre Lima (AR Lumin):** Programação, Narrativa, Cenários e Visão Vetorial.
+* **Guilherme Pacheco:** Programação e Arquitetura de Sistemas.
+* **Isadora Zeri de Almeida:** Arte de Personagens e Animação.
+* **Nicoly Celestina Cascaes:** Game Design e Pesquisa Clínica.
 
-> Project created as part of a technical program at IFPR.
+### Instituições Parceiras
+* **Orientação:** Dra. Vanessa Comassetto (UFPR) e Yasmin G. Morais.
+* **Conteúdo Clínico:** USP e Hospital Israelita Albert Einstein.
 
-## 🚀 Status
+---
 
-🔧 In development — active progress and iteration  
+## ⚖️ Licenciamento e Propriedade Intelectual
 
-## 📷 Media
+Este repositório opera sob um modelo de **Licenciamento Dual**:
 
+1.  **Código-Fonte:** Licenciado sob a [MIT License](LICENSE). Aberto para fins acadêmicos e de estudo.
+2.  **Ativos (Assets):** Todos os direitos reservados (**All Rights Reserved**) à equipe **DIFS / AR Lumin**. Sprites, modelos, áudios e narrativa são protegidos e não podem ser reutilizados sem autorização prévia.
 
+> **Uso Institucional:** As instituições parceiras possuem autorização para uso não comercial e pedagógico deste software em suas dependências.
 
-## 📚 Learning & Development
-
-This project explores the challenge of translating real medical protocols (such as POCUS) into interactive and understandable gameplay mechanics.
-
-## 📄 License
-
-- **Code:** MIT License  
-- **Assets (sprites, audio, models, etc.):** All Rights Reserved © DIFS / AR Lumin Creates  
-
-The source code is available for study and reuse under the MIT License.  
-All visual and audio assets are protected and may not be used, copied, or distributed without explicit permission.
-
-## 📬 Contact
-
-Feel free to connect or reach out for opportunities, collaborations, or feedback.
+---
