@@ -57,10 +57,10 @@ O jogo utiliza uma estética híbrida de **Pixel Art 2.5D** para exploração e 
 ## 👥 Equipe e Créditos
 
 ### Desenvolvedores (Equipe DIFS / AR Lumin)
-* **Alexandre Lima (AR Lumin):** Programação, Narrativa, Cenários e Visão Vetorial.
-* **Guilherme Pacheco:** Programação e Arquitetura de Sistemas.
-* **Isadora Zeri de Almeida:** Arte de Personagens e Animação.
-* **Nicoly Celestina Cascaes:** Game Design e Pesquisa Clínica.
+* **Alexandre Lima (AR Lumin):** Programação, Narrativa e Cenários.
+* **Guilherme Pacheco:** Programação.
+* **Isadora Zeri de Almeida:** Programação, Arte de Personagens e Animação.
+* **Nicoly Celestina Cascaes:** Programação e Sound Design.
 
 ### Instituições Parceiras
 * **Orientação:** Dra. Vanessa Comassetto (UFPR) e Yasmin G. Morais.
