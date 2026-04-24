@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
@@ -41,3 +41,38 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 675402601
+    locked: 0
+  - name: Wall_Bot
+    uniqueID: 2960067897
+    locked: 0
+  - name: Forniture_00
+    uniqueID: 1104927409
+    locked: 0
+  - name: Forniture.01
+    uniqueID: 3204418827
+    locked: 0
+  - name: Forniture
+    uniqueID: 1567146195
+    locked: 0
+  - name: Leito_Base
+    uniqueID: 3029716303
+    locked: 0
+  - name: Cortinas
+    uniqueID: 29853841
+    locked: 0
+  - name: Player
+    uniqueID: 550036845
+    locked: 0
+  - name: Cobertor
+    uniqueID: 2015658303
+    locked: 0
+  - name: Wall_Top
+    uniqueID: 3911777441
+    locked: 0
+  - name: Cortina_Aberta
+    uniqueID: 3567481511
+    locked: 0
+  m_RenderingLayers:
+  - Default

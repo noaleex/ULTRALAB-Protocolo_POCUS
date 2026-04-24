@@ -1,5 +1,6 @@
 {
-    "name": "InputSystem_Actions",
+    "version": 1,
+    "name": "Ultralab_InputSystem_Actions",
     "maps": [
         {
             "name": "Player",

@@ -1,2 +1,7 @@
 ﻿<Solution>
+  <Project Path="SimpleInput.Runtime.csproj" />
+  <Project Path="NavMeshPlus.csproj" />
+  <Project Path="NavMeshPlusEditor.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="SimpleInput.Editor.csproj" />
 </Solution>
